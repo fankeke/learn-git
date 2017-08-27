@@ -18,3 +18,5 @@ class SimpleGit
     end
   
 end
+
+class Ss
